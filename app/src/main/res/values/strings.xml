@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NameLIstApp</string>
+    <string name="addName">Add</string>
+    <string name="addNameHint">Name</string>
+</resources>
